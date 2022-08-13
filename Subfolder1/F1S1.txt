@@ -4,5 +4,11 @@
 2 Create folder with 2 subfolders x
 3 Git init in main folder x
 4 Git add x
-5 
-6
+5 Git commit x
+6 Change content of file and make new commit 
+7
+8
+9
+10
+11
+12
