@@ -1,0 +1,8 @@
+# File 1 for subfolder 1
+
+1 Install Git x
+2 Create folder with 2 subfolders x
+3 Git init in main folder x
+4 Git add x
+5 
+6
